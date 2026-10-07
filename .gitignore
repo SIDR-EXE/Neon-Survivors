@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output (too large for GitHub, distribute via Releases instead)
+dist/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
